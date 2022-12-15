@@ -11,7 +11,7 @@ Navigate to `View network status and tasks`
 ## Step 2: Navigate to Ethernet Connection
 <img src="assets/Capture2.PNG"/>
 
-Click `Properties`
+Click `Properties` in the window that opens
 
 <img src="assets/Capture3.PNG"/>
 
@@ -38,7 +38,7 @@ Navigate to `View network status and tasks`
 ## Step 2: Navigate to Ethernet Connection
 <img src="assets/Capture2.PNG"/>
 
-Click `Properties`
+Click `Properties` in the window that opens
 
 <img src="assets/Capture3.PNG"/>
 
