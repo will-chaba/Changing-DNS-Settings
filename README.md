@@ -1,8 +1,6 @@
 # Changing-DNS-Settings
 Instructions on changing DNS Settings in Windows
 
-<img src="assets/AmazoomHomepage.png" width="1000"/>
-
 # Changing DNS Settings to use LANCache
 
 ## Step 1: Open Control Panel
